@@ -1,0 +1,33 @@
+{
+  "id": "scts",
+  "name": "SCTS",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "content_types": ["movie", "serial"],
+  "quality": "FHD",
+  "languages": ["ru"],
+  "anime": false,
+  "config_schema": [
+    {
+      "key": "indexUrl",
+      "label": "Index URL",
+      "type": "string",
+      "default": "https://raw.githubusercontent.com/rusanoff1983-del/scts/main/scts_chunks/index.json",
+      "description": "URL to index.json"
+    },
+    {
+      "key": "chunkUrlPrefix",
+      "label": "Chunk URL prefix",
+      "type": "string",
+      "default": "https://raw.githubusercontent.com/rusanoff1983-del/scts/main/scts_chunks/",
+      "description": "Base URL for chunk files"
+    },
+    {
+      "key": "cacheHours",
+      "label": "Cache hours",
+      "type": "int",
+      "default": 24,
+      "description": "How long to cache index (hours)"
+    }
+  ]
+}
