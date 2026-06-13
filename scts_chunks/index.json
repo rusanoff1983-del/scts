@@ -203384,7 +203384,7 @@
     "year": "2026",
     "normName": "",
     "idx": 22598,
-    "eng": "the drama",
+    "eng": "The.Drama.2026.1080p.AMZN.WEB-DL.H.264-EniaHD.mkv",
     "chunk_id": 38
   },
   {
@@ -204366,6 +204366,303 @@
     "normName": "",
     "idx": 22707,
     "eng": "leave one day",
+    "chunk_id": 38
+  },
+  {
+    "id": "53462",
+    "name": "Мамино дитя",
+    "year": "2025",
+    "normName": "",
+    "idx": 22708,
+    "eng": "mother s baby",
+    "chunk_id": 38
+  },
+  {
+    "id": "53463",
+    "name": "Любовный переполох",
+    "year": "2025",
+    "normName": "",
+    "idx": 22709,
+    "eng": "love fail repeat",
+    "chunk_id": 38
+  },
+  {
+    "id": "53464",
+    "name": "Запасная жена",
+    "year": "2026",
+    "normName": "",
+    "idx": 22710,
+    "eng": "zapasnaya zhena",
+    "chunk_id": 38
+  },
+  {
+    "id": "53465",
+    "name": "Тебе звонит судьба",
+    "year": "2025",
+    "normName": "",
+    "idx": 22711,
+    "eng": "tebe zvonit sudba",
+    "chunk_id": 38
+  },
+  {
+    "id": "53466",
+    "name": "Выход есть всегда",
+    "year": "2025",
+    "normName": "",
+    "idx": 22712,
+    "eng": "vyihod est vsegda",
+    "chunk_id": 38
+  },
+  {
+    "id": "53467",
+    "name": "Зачарованное королевство",
+    "year": "2026",
+    "normName": "",
+    "idx": 22713,
+    "eng": "the land of sometimes",
+    "chunk_id": 38
+  },
+  {
+    "id": "53468",
+    "name": "Рик и Морти (9 сезон)",
+    "year": "2026",
+    "normName": "9",
+    "idx": 22714,
+    "eng": "rick and morty",
+    "chunk_id": 38
+  },
+  {
+    "id": "53469",
+    "name": "Враги (1 сезон)",
+    "year": "2026",
+    "normName": "1",
+    "idx": 22715,
+    "eng": "vragi 1 sezon",
+    "chunk_id": 38
+  },
+  {
+    "id": "53470",
+    "name": "Двойная жизнь Ми (1 сезон)",
+    "year": "2026",
+    "normName": "1",
+    "idx": 22716,
+    "eng": "dvoynaya zhizn mi 1 sezon",
+    "chunk_id": 38
+  },
+  {
+    "id": "53471",
+    "name": "Адвокаты (1 сезон)",
+    "year": "2026",
+    "normName": "1",
+    "idx": 22717,
+    "eng": "advokatyi 1 sezon",
+    "chunk_id": 38
+  },
+  {
+    "id": "53472",
+    "name": "Отец",
+    "year": "2025",
+    "normName": "",
+    "idx": 22718,
+    "eng": "otets",
+    "chunk_id": 38
+  },
+  {
+    "id": "53473",
+    "name": "Фишер (3 сезон)",
+    "year": "2026",
+    "normName": "3",
+    "idx": 22719,
+    "eng": "fisher 3 sezon",
+    "chunk_id": 38
+  },
+  {
+    "id": "53474",
+    "name": "Моя родная",
+    "year": "2026",
+    "normName": "",
+    "idx": 22720,
+    "eng": "moya rodnaya",
+    "chunk_id": 38
+  },
+  {
+    "id": "53475",
+    "name": "Взгляд русалки",
+    "year": "2024",
+    "normName": "",
+    "idx": 22721,
+    "eng": "vzglyad rusalki",
+    "chunk_id": 38
+  },
+  {
+    "id": "53476",
+    "name": "Затмение (1 сезон)",
+    "year": "2025",
+    "normName": "1",
+    "idx": 22722,
+    "eng": "zatmenie 1 sezon",
+    "chunk_id": 38
+  },
+  {
+    "id": "53477",
+    "name": "Опасные отношения",
+    "year": "2026",
+    "normName": "",
+    "idx": 22723,
+    "eng": "over your dead body",
+    "chunk_id": 38
+  },
+  {
+    "id": "53478",
+    "name": "Грязные деньги",
+    "year": "2026",
+    "normName": "",
+    "idx": 22724,
+    "eng": "in the grey",
+    "chunk_id": 38
+  },
+  {
+    "id": "53479",
+    "name": "Паук-Нуар (1 сезон)",
+    "year": "2026",
+    "normName": "1",
+    "idx": 22725,
+    "eng": "spider noir",
+    "chunk_id": 38
+  },
+  {
+    "id": "53480",
+    "name": "Стукач",
+    "year": "2025",
+    "normName": "",
+    "idx": 22726,
+    "eng": "yadang the snitch",
+    "chunk_id": 38
+  },
+  {
+    "id": "53481",
+    "name": "Адреналин",
+    "year": "2025",
+    "normName": "",
+    "idx": 22727,
+    "eng": "adrenalin",
+    "chunk_id": 38
+  },
+  {
+    "id": "53482",
+    "name": "Хокум",
+    "year": "2026",
+    "normName": "",
+    "idx": 22728,
+    "eng": "hokum",
+    "chunk_id": 38
+  },
+  {
+    "id": "53483",
+    "name": "Коммерсант",
+    "year": "2026",
+    "normName": "",
+    "idx": 22729,
+    "eng": "kommersant",
+    "chunk_id": 38
+  },
+  {
+    "id": "53484",
+    "name": "Привязанность",
+    "year": "2025",
+    "normName": "",
+    "idx": 22730,
+    "eng": "affection",
+    "chunk_id": 38
+  },
+  {
+    "id": "53485",
+    "name": "Женщина в белом",
+    "year": "2026",
+    "normName": "",
+    "idx": 22731,
+    "eng": "zhenschina v belom",
+    "chunk_id": 38
+  },
+  {
+    "id": "53486",
+    "name": "Крыша",
+    "year": "2025",
+    "normName": "",
+    "idx": 22732,
+    "eng": "kryisha",
+    "chunk_id": 38
+  },
+  {
+    "id": "53487",
+    "name": "Кукла",
+    "year": "2025",
+    "normName": "",
+    "idx": 22733,
+    "eng": "kukla",
+    "chunk_id": 38
+  },
+  {
+    "id": "53488",
+    "name": "Наш герой, Бальтазар",
+    "year": "2025",
+    "normName": "",
+    "idx": 22734,
+    "eng": "our hero, balthazar",
+    "chunk_id": 38
+  },
+  {
+    "id": "53489",
+    "name": "Мрачная легенда о Малине Кунданге",
+    "year": "2025",
+    "normName": "",
+    "idx": 22735,
+    "eng": "legenda kelam malin kundang",
+    "chunk_id": 38
+  },
+  {
+    "id": "53490",
+    "name": "Семья на мою голову",
+    "year": "2025",
+    "normName": "",
+    "idx": 22736,
+    "eng": "come ti muovi sbagli",
+    "chunk_id": 38
+  },
+  {
+    "id": "53491",
+    "name": "Цвет зла: Черный",
+    "year": "2026",
+    "normName": "",
+    "idx": 22737,
+    "eng": "colors of evil black",
+    "chunk_id": 38
+  },
+  {
+    "id": "53492",
+    "name": "Беспечный возраст",
+    "year": "2025",
+    "normName": "",
+    "idx": 22738,
+    "eng": "pools",
+    "chunk_id": 38
+  },
+  {
+    "id": "53493",
+    "name": "Школа магических зверей. Хранители чуда",
+    "year": "2025",
+    "normName": "",
+    "idx": 22739,
+    "eng": "die schule der magischen tiere 4",
+    "chunk_id": 38
+  },
+  {
+    "id": "53494",
+    "name": "Брошенный",
+    "year": "2025",
+    "normName": "",
+    "idx": 22740,
+    "eng": "the neglected",
     "chunk_id": 38
   }
 ]
